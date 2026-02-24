@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="ภาพสินค้า">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e9ecef"/>
+      <stop offset="100%" stop-color="#ced4da"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <g fill="#6c757d" font-family="Segoe UI, Tahoma, sans-serif" text-anchor="middle">
+    <rect x="300" y="190" width="200" height="140" rx="12" ry="12" fill="#adb5bd"/>
+    <circle cx="360" cy="250" r="16" fill="#dee2e6"/>
+    <path d="M320 300 L380 250 L430 300 Z" fill="#dee2e6"/>
+    <text x="400" y="380" font-size="34" font-weight="600">รูปสินค้า</text>
+    <text x="400" y="420" font-size="22">ไม่มีรูปจากแหล่งภายนอก</text>
+  </g>
+</svg>

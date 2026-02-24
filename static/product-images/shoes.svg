@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#eff6ff"/>
+  <path d="M170 360 C260 330, 330 330, 430 360 L590 360 C620 360, 650 390, 650 420 C650 450, 620 480, 590 480 L200 480 C160 480, 130 450, 130 410 C130 385, 145 370, 170 360 Z" fill="#2563eb"/>
+  <circle cx="270" cy="398" r="8" fill="#dbeafe"/>
+  <circle cx="300" cy="393" r="8" fill="#dbeafe"/>
+  <circle cx="330" cy="390" r="8" fill="#dbeafe"/>
+  <text x="400" y="540" text-anchor="middle" font-size="44" fill="#1d4ed8" font-family="Segoe UI">รองเท้าผ้าใบ</text>
+</svg>

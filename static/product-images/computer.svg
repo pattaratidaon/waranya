@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f0fdf4"/>
+  <rect x="170" y="120" width="460" height="290" rx="18" fill="#15803d"/>
+  <rect x="195" y="145" width="410" height="240" rx="10" fill="#bbf7d0"/>
+  <rect x="335" y="420" width="130" height="22" rx="8" fill="#166534"/>
+  <rect x="280" y="445" width="240" height="22" rx="8" fill="#14532d"/>
+  <text x="400" y="540" text-anchor="middle" font-size="44" fill="#14532d" font-family="Segoe UI">คอมพิวเตอร์</text>
+</svg>

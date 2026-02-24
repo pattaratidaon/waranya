@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f5f3ff"/>
+  <rect x="190" y="190" width="420" height="240" rx="22" fill="#7c3aed"/>
+  <rect x="270" y="155" width="120" height="40" rx="8" fill="#6d28d9"/>
+  <circle cx="400" cy="310" r="85" fill="#ddd6fe"/>
+  <circle cx="400" cy="310" r="44" fill="#5b21b6"/>
+  <circle cx="540" cy="235" r="12" fill="#ede9fe"/>
+  <text x="400" y="530" text-anchor="middle" font-size="44" fill="#5b21b6" font-family="Segoe UI">กล้อง</text>
+</svg>

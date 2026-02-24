@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#eef2ff"/>
+  <circle cx="400" cy="300" r="150" fill="none" stroke="#4f46e5" stroke-width="28"/>
+  <rect x="205" y="255" width="65" height="130" rx="22" fill="#6366f1"/>
+  <rect x="530" y="255" width="65" height="130" rx="22" fill="#6366f1"/>
+  <text x="400" y="520" text-anchor="middle" font-size="44" fill="#3730a3" font-family="Segoe UI">หูฟัง</text>
+</svg>
